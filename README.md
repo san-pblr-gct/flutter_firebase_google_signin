@@ -9,5 +9,5 @@ https://firebase.google.com/docs/flutter/setup
 
 I have excluded the below 2 files, You can paste your downloaded google services file in the below path.
 
-**/android/app/google-services.json
+**/android/app/google-services.json  
 **/ios/Runner/GoogleService-Info.plist
